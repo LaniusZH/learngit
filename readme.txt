@@ -6,5 +6,4 @@ sdfsdf
 sdasdasdasdads
 Git has a mutable index called stage.
 My stupid boss still prefers SV
-creating a ner branch is quicks
-
+Creating a new branch is quick & simple.
